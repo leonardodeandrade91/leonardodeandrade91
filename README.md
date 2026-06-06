@@ -89,7 +89,7 @@ Códigos em Java feitos para a matéria de Linguagem Orientada a Objetos da Facu
 
 **Tecnologias:** Java, Swing, JavaFX, PostgreSQL.
 
-🔗 Link: [Atividades Complementares de Linguagem Orientada a Objetos com C#](https://github.com/leonardodeandrade91/Atividades-Materia-Linguagem-Orientada-a-Objetos-Java)
+🔗 Link: [Matéria de Linguagem Orientada a Objetos com Java](https://github.com/leonardodeandrade91/Atividades-Materia-Linguagem-Orientada-a-Objetos-Java)
 
 ---
 
