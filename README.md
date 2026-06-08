@@ -1,4 +1,4 @@
-# Olá, eu sou Leonardo Andrade 👋
+7# Olá, eu sou Leonardo Andrade 👋
 
 ## Sobre mim
 
@@ -21,7 +21,6 @@
 * C#
 * PHP
 * C/C++
-* SQL
 
 ### Desenvolvimento
 * HTML5
@@ -95,7 +94,7 @@ Códigos em Java feitos para a matéria de Linguagem Orientada a Objetos da Facu
 
 ## Contato
 
-📧 Email: leonarodeandrade91@hotmail.com
+📧 Email: leonardodeandrade91@hotmail.com
 
 💼 LinkedIn: https://linkedin.com/in/leonardodeandrade91
 
