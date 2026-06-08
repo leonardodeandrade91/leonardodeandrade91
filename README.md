@@ -1,4 +1,4 @@
-7# Olá, eu sou Leonardo Andrade 👋
+# Olá, eu sou Leonardo Andrade 👋
 
 ## Sobre mim
 
